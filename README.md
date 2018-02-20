@@ -7,7 +7,7 @@ Examples using the improved GCell Beacon Scanning Library. Example of receiving 
 
 A notification can be fed back to your activity if a beacon is observed and certain criteria are met.
 
-###Notification Specification
+### Notification Specification
 
 A specifcation of what beacons to look for should be genrated along with any actions thqat should be performed when they are seen. This should be in JSON format, as outlined below:
 * The **actionName** is the string that is called when the action is triggered
